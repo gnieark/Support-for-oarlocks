@@ -5,7 +5,7 @@ Epaisseur de coque (ou autre support): 20mm
 Diamètre tige de la dame de nage: 12mm
 Fixation avec vis M6 x 60mm et écrous 10,9
 
-#Support for oarlocks
+# Support for oarlocks
 
 Design for 3D printing
 Shell thickness (or other support): 20mm
