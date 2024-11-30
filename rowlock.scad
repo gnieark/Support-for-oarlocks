@@ -2,10 +2,10 @@
 difference(){
 
     union(){
-        linear_extrude (height=50, $fn = 200)
+        linear_extrude (height=40, $fn = 200)
         import (file="rowlock.dxf", layer="0", $fn=200);
 
-        translate([0,0,49.99])
+        translate([0,0,39.99])
         linear_extrude (height=10, $fn = 200)
         import (file="rowlock.dxf", layer="1", $fn=200);
     }
